@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "363782282371",
+    "project_id": "i-viewing-app",
+    "storage_bucket": "i-viewing-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363782282371:android:e156fede26f9320d62cfb6",
+        "android_client_info": {
+          "package_name": "com.project.iviewcapstone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363782282371-8bcq53u8c3jmiq1b554gc7h6lrff628e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL3G6JRv_uncaDbpOF9aElt9FE1Q4pXfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363782282371-8bcq53u8c3jmiq1b554gc7h6lrff628e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

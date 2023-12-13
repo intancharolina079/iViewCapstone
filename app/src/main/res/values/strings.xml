@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">iView Capstone</string>
+
+    //Screen
+    <string name="interviewimg">LET’S PREPARE YOUR INTERVIEW!</string>
+    <string name="interview_desc">Be Prepare Yourself Here!</string>
+    <string name="btn_screen">GET STARTED</string>
+
+    //Authentication
+    <string name="login">Welcome, please login!</string>
+    <string name="login_btn">LOGIN</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="logo">logo</string>
+    <string name="havent_account">Didn’t have an account? </string>
+    <string name="already_have_account">Already have an account? </string>
+    <string name="sign_up">REGISTER</string>
+    <string name="sign_up_register">SIGN UP</string>
+    <string name="password_confirm">Password Confirm</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
