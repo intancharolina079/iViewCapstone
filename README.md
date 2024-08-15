@@ -28,10 +28,6 @@ iVIEW MOBILE DEVELOPMENT
 > ## Project Background
 An innovative job interview preparation app, infused with Machine Learning, employs facial scanning to assess users' anxiety levels before interviews. Utilizing AI, it analyzes facial expressions for signs of nervousness and provides tailored advice if needed. The app includes interactive simulated interview modules for practice, enhancing user readiness. Beyond visual feedback, the facial scanning feature compiles progress reports for personalized preparation. This application not only benefits job seekers but also provides companies with a holistic method for assessing candidates' potential.
 
-> ## Demo Application
-
-<img src="-" alt="Alt Text" width="200" />
-
 > ## Development Roadmap
 - [Kotlin](https://kotlinlang.org/)
 - [Glide](https://github.com/bumptech/glide)
